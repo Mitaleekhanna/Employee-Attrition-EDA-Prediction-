@@ -1,6 +1,6 @@
 # Employee-Attrition-EDA-Prediction-
 
-This project focuses on the development of a predictive model for employee attrition and an in-depth exploratory data analysis to gain insights into the underlying factors contributing to attrition within the organization. By combining predictive analytics with data exploration, the project aims to assist HR and management in proactively addressing attrition concerns.
+This project focuses on the development of a predictive model for employee attrition and an in-depth exploratory data analysis from Kaggle dataset to gain insights into the underlying factors contributing to attrition within the organization. By combining predictive analytics with data exploration, the project aims to assist HR and management in proactively addressing attrition concerns.
 
 Step 1 : Data Exploration
 Read the dataset and calculate the number of rows and columns.
